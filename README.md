@@ -1,12 +1,15 @@
 # GBEMU43DS
 
-### GBEMU43DS is based on my project, gbemu
-### this project can be compiled for windows but its just for developing (not recommended) 
-### emscripten build has been also deprecated
-### check out normal [gbemu](https://github.com/ts-dev-debug-v2/gb-emu) for windows and emscripten web builds.
+### GBEMU43DS is based on my project, gbemu.
 
-# for the universal updater ai usage statement
-### Minor-Major usage of Ai
-ai was used to fix severe issues of the emulator and add some features, the core is mostly human writen.
+### This project can be compiled for Windows but it's just for developing (not recommended).
 
-### feel free to open any issues about bugs, etc !! 
+### Emscripten build has also been deprecated check, out the normal [gbemu](https://github.com/ts-dev-debug-v2/gb-emu) for Windows and Emscripten web builds. (NOTE: some features are missing in those builds.)
+
+## AI Usage Statement
+
+**Moderate usage of AI.**
+
+### AI was used to fix severe issues in the emulator and add some features. The core is mostly human-written.
+
+### Feel free to open any issues about bugs, etc!
