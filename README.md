@@ -38,10 +38,14 @@
 
 ### Feel free to open any issues about bugs, etc!
 
+--- 
+
 # Star History !
 
-<div align="center">
-  <a href="https://star-history.com/#TS-DEV-DEBUG-V2/GBEMU43DS&Date">
-    <img src="https://api.star-history.com/svg?repos=TS-DEV-DEBUG-V2/GBEMU43DS&type=Date&legend=top-left" alt="Star History Chart" width="250">
-  </a>
-</div>
+<a href="https://www.star-history.com/?repos=TS-DEV-DEBUG-V2%2FGBEMU43DS&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=TS-DEV-DEBUG-V2/GBEMU43DS&type=date&theme=dark&legend=top-left&sealed_token=PG0OnjPUeapUCDbaa440G-gR8cYSc3c-3hSndgTkB3JwWGCkAEvmjiLqnA-Rzc_Ngiz1II805pwoDCFJtpxyWsGrxF5RvofjAjKChjqEZeLJLNRw7VS5BzgdC7l6SuNpVcV_bPFeb23i66306c0Y6yolqK9W69dIW2eu6UGqewwPKpok1ydotqYYx7mG" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=TS-DEV-DEBUG-V2/GBEMU43DS&type=date&legend=top-left&sealed_token=PG0OnjPUeapUCDbaa440G-gR8cYSc3c-3hSndgTkB3JwWGCkAEvmjiLqnA-Rzc_Ngiz1II805pwoDCFJtpxyWsGrxF5RvofjAjKChjqEZeLJLNRw7VS5BzgdC7l6SuNpVcV_bPFeb23i66306c0Y6yolqK9W69dIW2eu6UGqewwPKpok1ydotqYYx7mG" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=TS-DEV-DEBUG-V2/GBEMU43DS&type=date&legend=top-left&sealed_token=PG0OnjPUeapUCDbaa440G-gR8cYSc3c-3hSndgTkB3JwWGCkAEvmjiLqnA-Rzc_Ngiz1II805pwoDCFJtpxyWsGrxF5RvofjAjKChjqEZeLJLNRw7VS5BzgdC7l6SuNpVcV_bPFeb23i66306c0Y6yolqK9W69dIW2eu6UGqewwPKpok1ydotqYYx7mG" />
+ </picture>
+</a>
