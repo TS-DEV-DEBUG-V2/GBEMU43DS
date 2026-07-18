@@ -42,10 +42,4 @@
 
 # Star History !
 
-<a href="https://www.star-history.com/?repos=TS-DEV-DEBUG-V2%2FGBEMU43DS&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=TS-DEV-DEBUG-V2/GBEMU43DS&type=date&theme=dark&legend=top-left&sealed_token=PG0OnjPUeapUCDbaa440G-gR8cYSc3c-3hSndgTkB3JwWGCkAEvmjiLqnA-Rzc_Ngiz1II805pwoDCFJtpxyWsGrxF5RvofjAjKChjqEZeLJLNRw7VS5BzgdC7l6SuNpVcV_bPFeb23i66306c0Y6yolqK9W69dIW2eu6UGqewwPKpok1ydotqYYx7mG" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=TS-DEV-DEBUG-V2/GBEMU43DS&type=date&legend=top-left&sealed_token=PG0OnjPUeapUCDbaa440G-gR8cYSc3c-3hSndgTkB3JwWGCkAEvmjiLqnA-Rzc_Ngiz1II805pwoDCFJtpxyWsGrxF5RvofjAjKChjqEZeLJLNRw7VS5BzgdC7l6SuNpVcV_bPFeb23i66306c0Y6yolqK9W69dIW2eu6UGqewwPKpok1ydotqYYx7mG" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=TS-DEV-DEBUG-V2/GBEMU43DS&type=date&legend=top-left&sealed_token=PG0OnjPUeapUCDbaa440G-gR8cYSc3c-3hSndgTkB3JwWGCkAEvmjiLqnA-Rzc_Ngiz1II805pwoDCFJtpxyWsGrxF5RvofjAjKChjqEZeLJLNRw7VS5BzgdC7l6SuNpVcV_bPFeb23i66306c0Y6yolqK9W69dIW2eu6UGqewwPKpok1ydotqYYx7mG" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/chart?repos=TS-DEV-DEBUG-V2/GBEMU43DS&type=date&legend=top-left&sealed_token=lEvq-8Y40tPp7Ff-AqqNHvMFTGPBI1owG93gwEKEH0bebgmriK071gnrjxzQVZWdRdJO0ImV1jsdmXubdVVsr7eBhWF0FGceEcF-GX2VLGWCPyxEDx_QKkfNBOY3adAbXe2CduU_1mizWogAqjzglez8Zo6k3MhhxCawlEBgA-Dhf_7YQQbCb9rr7_C5)](https://www.star-history.com/?repos=TS-DEV-DEBUG-V2%2FGBEMU43DS&type=date&legend=top-left)
