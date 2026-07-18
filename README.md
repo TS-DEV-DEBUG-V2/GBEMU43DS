@@ -39,7 +39,3 @@
 ### Feel free to open any issues about bugs, etc!
 
 --- 
-
-# Star History !
-
-[![Star History Chart](https://api.star-history.com/chart?repos=TS-DEV-DEBUG-V2/GBEMU43DS&type=date&legend=top-left&sealed_token=lEvq-8Y40tPp7Ff-AqqNHvMFTGPBI1owG93gwEKEH0bebgmriK071gnrjxzQVZWdRdJO0ImV1jsdmXubdVVsr7eBhWF0FGceEcF-GX2VLGWCPyxEDx_QKkfNBOY3adAbXe2CduU_1mizWogAqjzglez8Zo6k3MhhxCawlEBgA-Dhf_7YQQbCb9rr7_C5)](https://www.star-history.com/?repos=TS-DEV-DEBUG-V2%2FGBEMU43DS&type=date&legend=top-left)
