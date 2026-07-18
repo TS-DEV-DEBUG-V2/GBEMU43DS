@@ -1,5 +1,10 @@
 # GBEMU43DS
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/GBEMU43DS/refs/heads/main/banner.png" alt="Banner">
+  <img src="https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/GBEMU43DS/refs/heads/main/icon.png" alt="Icon">
+</div>
+
 ### GBEMU43DS is based on my project, gbemu.
 
 ### This project can be compiled for Windows but it's just for developing (not recommended).
