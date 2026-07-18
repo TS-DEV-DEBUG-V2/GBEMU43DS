@@ -6,7 +6,7 @@
 
 ### Emscripten build has also been deprecated check, out the normal [gbemu](https://github.com/ts-dev-debug-v2/gb-emu) for Windows and Emscripten web builds. (NOTE: some features are missing in those builds.)
 
-## AI Usage Statement
+## AI Usage Statement (for Universal Updater)
 
 **Moderate usage of AI.**
 
