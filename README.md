@@ -24,11 +24,11 @@
 
 ![dev](https://repobeats.axiom.co/api/embed/03a6bd466448c62229b808319e18938eea2a3951.svg "Repobeats analytics image")
 
-### GBEMU43DS is based on my project, gbemu.
+### GBEMU43DS is based on my project, gbemu. (gbemu has been deprecated)
 
 ### This project can be compiled for Windows but it's just for developing (not recommended).
 
-### Emscripten build has also been deprecated check, out the normal [gbemu](https://github.com/ts-dev-debug-v2/gb-emu) for Windows and Emscripten web builds. (NOTE: some features are missing in those builds.)
+### Emscripten build has also been deprecated check, out the normal [rustyboy](https://github.com/ts-dev-debug-v2/rustyboy) for Windows and Emscripten web builds. (NOTE: some features are missing in those builds.)
 
 ### GBEMU43DS Features
 - Gameboy Camera emulation (uses the 3ds camera as a gameboy camera !)
