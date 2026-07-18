@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/GBEMU43DS/refs/heads/main/banner.png" alt="Banner"><br><br>
-  <img src="https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/GBEMU43DS/refs/heads/main/icon.png" alt="Icon" width="100">
+  <img src="https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/GBEMU43DS/refs/heads/main/icon.png" alt="Icon" width="65">
 </div>
 
 ### GBEMU43DS is based on my project, gbemu.
