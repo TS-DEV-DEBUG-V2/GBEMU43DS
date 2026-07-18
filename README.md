@@ -35,7 +35,7 @@
 - Gameboy printer emulation
 - Supports Gameboy Color
 - Save States
-- Game Shark & Game Genie codes (Action Replay soon !)
+- Game Shark & Game Genie codes (Action Replay & CodeBreaker soon !)
 - Screenshots
 
 ## AI Usage Statement (for Universal Updater)
