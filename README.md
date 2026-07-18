@@ -5,6 +5,21 @@
   <img src="https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/GBEMU43DS/refs/heads/main/icon.png" alt="Icon" width="65">
 </div>
 
+<div align="center">
+
+![C++17](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Nintendo%203DS-E60012?style=for-the-badge&logo=nintendo3ds&logoColor=white)
+![License](https://img.shields.io/github/license/TS-DEV-DEBUG-V2/GBEMU43DS?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/TS-DEV-DEBUG-V2/GBEMU43DS?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/TS-DEV-DEBUG-V2/GBEMU43DS?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/TS-DEV-DEBUG-V2/GBEMU43DS?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/TS-DEV-DEBUG-V2/GBEMU43DS?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Made with AI](https://img.shields.io/badge/AI%20Usage-Moderate-yellow?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/TS-DEV-DEBUG-V2/GBEMU43DS?style=for-the-badge)
+
+</div>
+
 ### GBEMU43DS is based on my project, gbemu.
 
 ### This project can be compiled for Windows but it's just for developing (not recommended).
