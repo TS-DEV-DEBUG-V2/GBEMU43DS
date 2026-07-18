@@ -37,3 +37,11 @@
 ### AI was used to fix severe issues in the emulator and add some features. The core is mostly human-written.
 
 ### Feel free to open any issues about bugs, etc!
+
+# Star History !
+
+<div align="center">
+  <a href="https://star-history.com/#TS-DEV-DEBUG-V2/GBEMU43DS&Date">
+    <img src="https://api.star-history.com/svg?repos=TS-DEV-DEBUG-V2/GBEMU43DS&type=Date&legend=top-left" alt="Star History Chart" width="250">
+  </a>
+</div>
