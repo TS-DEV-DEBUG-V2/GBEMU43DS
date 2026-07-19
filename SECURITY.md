@@ -40,4 +40,4 @@ Areas that need the most scrutiny:
 - APU/core threading on Old 3DS (2 cores only). Shared state between audio and CPU/PPU threads needs to be race free, not just "doesn't crash most of the time."
 - Any unsafe/FFI boundary between the Rust core and the platform layer (libctru bindings, C interop). These get first priority in review.
 
-# Report anything by DMing me (@luvescodebtw) 
+# Report anything by DMing me on discord (@luvescodebtw) 
