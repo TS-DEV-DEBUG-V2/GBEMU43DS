@@ -6,6 +6,8 @@
 </div>
 
 <div align="center">
+  
+---
 
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Nintendo%203DS-E60012?style=for-the-badge&logo=nintendo3ds&logoColor=white)
