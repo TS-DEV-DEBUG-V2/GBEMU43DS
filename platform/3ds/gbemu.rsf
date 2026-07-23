@@ -1,0 +1,22 @@
+BasicInfo:
+  Title                    : "GBEMU"
+  CompanyCode               : "00"
+  ProductCode               : "CTR-P-GBEM"
+  ContentType               : Application
+  Logo                      : Nintendo
+
+TitleInfo:
+  UniqueId                  : 0x5A93B
+  Category                  : Application
+
+Option:
+  UseOnSD                   : true
+  FreeProductCode            : true
+  MediaFootPadding          : false
+  EnableCrypt                : false
+  EnableCompress             : true
+
+SystemControlInfo:
+  SaveDataSize: 0KB
+  RemasterVersion: 0
+  StackSize: 0x40000
