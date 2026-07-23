@@ -21,7 +21,7 @@ The emulator parses untrusted input in a few places, and all of it is in scope:
 Not in scope:
 
 - A malicious ROM that just crashes the emulator (panic/abort) with no further impact
-- Behavior that's just accurately emulating real Game Boy quirks
+- Behavior that's just accurately emulating real Game Boy quirks (for example VRAM garbage when starting a game) just wait a few seconds, 4-6 seconds.
 
 ## Threat Model
 
